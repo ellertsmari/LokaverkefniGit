@@ -12,6 +12,7 @@ class App extends Component {
           <Ragnhildur />
 
           <p>Anna testar</p>
+          <p>Anna testar aftur</p>
       </div>
     );
   }
