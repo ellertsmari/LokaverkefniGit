@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-
+import logo from './logo.svg';
 import './App.css';
 import Anna from './anna.js';
 import Ragnhildur from './ragnhildur.js';
@@ -10,8 +10,7 @@ class App extends Component {
       <div className="App">
           <Anna></Anna>
           <Ragnhildur />
-
-          <p>Anna að prufa</p>
+          <p>halló heimur</p>
       </div>
     );
   }
