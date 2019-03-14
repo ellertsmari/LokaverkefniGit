@@ -10,7 +10,7 @@ class App extends Component {
       <div className="App">
           <Anna></Anna>
           <Ragnhildur />
-          <p>Halló heimur</p>
+          <p>Halló</p>
           <p>Anna testar</p>
           <p>Anna testar aftur</p>
       </div>
